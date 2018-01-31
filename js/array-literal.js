@@ -1,5 +1,5 @@
 var colors ;
-colors ['white' , 'black', 'red'];
+colors = ['white' , 'black', 'red'];
 
 var el =document.getElementById('colors');
-el.textContent = colors [0];
+el.textContent = colors [2];
